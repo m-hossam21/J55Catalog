@@ -23,13 +23,13 @@
     },
     {
         "name": "بكج 1",
-        "price": "150",
+        "price": "1880",
         "images": [
           "https://i.postimg.cc/HLRHPhKm/Whats-App-Image-2025-08-15-at-4-56-16-PM.jpg",
-          "https://i.postimg.cc/def456/pkg1-2.jpg",
-          "https://i.postimg.cc/ghi789/pkg1-3.jpg",
-          "https://i.postimg.cc/jkl012/pkg1-4.jpg",
-          "https://i.postimg.cc/mno345/pkg1-5.jpg"
+          "https://i.postimg.cc/HLRHPhKm/Whats-App-Image-2025-08-15-at-4-56-16-PM.jpg",
+          "https://i.postimg.cc/HLRHPhKm/Whats-App-Image-2025-08-15-at-4-56-16-PM.jpg",
+          "https://i.postimg.cc/HLRHPhKm/Whats-App-Image-2025-08-15-at-4-56-16-PM.jpg",
+          "https://i.postimg.cc/HLRHPhKm/Whats-App-Image-2025-08-15-at-4-56-16-PM.jpg"
         ]
       },
       {
@@ -57,6 +57,7 @@
 
   ]
   
+
 
 
 
