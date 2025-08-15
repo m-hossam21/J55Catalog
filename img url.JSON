@@ -1,0 +1,59 @@
+[
+    {
+      "name": "بكج 1",
+      "price": "150",
+      "images": [
+        "https://i.postimg.cc/abc123/pkg1-1.jpg",
+        "https://i.postimg.cc/def456/pkg1-2.jpg",
+        "https://i.postimg.cc/ghi789/pkg1-3.jpg",
+        "https://i.postimg.cc/jkl012/pkg1-4.jpg",
+        "https://i.postimg.cc/mno345/pkg1-5.jpg"
+      ]
+    },
+    {
+      "name": "بكج 2",
+      "price": "200",
+      "images": [
+        "https://i.postimg.cc/pqr678/pkg2-1.jpg",
+        "https://i.postimg.cc/stu901/pkg2-2.jpg",
+        "https://i.postimg.cc/vwx234/pkg2-3.jpg",
+        "https://i.postimg.cc/yz567/pkg2-4.jpg",
+        "https://i.postimg.cc/abc890/pkg2-5.jpg"
+      ]
+    },
+    {
+        "name": "بكج 1",
+        "price": "150",
+        "images": [
+          "https://i.postimg.cc/abc123/pkg1-1.jpg",
+          "https://i.postimg.cc/def456/pkg1-2.jpg",
+          "https://i.postimg.cc/ghi789/pkg1-3.jpg",
+          "https://i.postimg.cc/jkl012/pkg1-4.jpg",
+          "https://i.postimg.cc/mno345/pkg1-5.jpg"
+        ]
+      },
+      {
+        "name": "بكج 1",
+        "price": "150",
+        "images": [
+          "https://i.postimg.cc/abc123/pkg1-1.jpg",
+          "https://i.postimg.cc/def456/pkg1-2.jpg",
+          "https://i.postimg.cc/ghi789/pkg1-3.jpg",
+          "https://i.postimg.cc/jkl012/pkg1-4.jpg",
+          "https://i.postimg.cc/mno345/pkg1-5.jpg"
+        ]
+      },
+      {
+        "name": "بكج 1",
+        "price": "150",
+        "images": [
+          "https://i.postimg.cc/abc123/pkg1-1.jpg",
+          "https://i.postimg.cc/def456/pkg1-2.jpg",
+          "https://i.postimg.cc/ghi789/pkg1-3.jpg",
+          "https://i.postimg.cc/jkl012/pkg1-4.jpg",
+          "https://i.postimg.cc/mno345/pkg1-5.jpg"
+        ]
+      }
+
+  ]
+  
